@@ -1,4 +1,4 @@
 # magento-language_mn_MN
-Магенто системийн монгол хэлний орчуулга
+Mongolian translation for Magento community edition
 
 
